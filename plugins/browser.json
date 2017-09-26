@@ -24,6 +24,9 @@
         },
         "cordova-plugin-spinner-dialog": {
             "PACKAGE_NAME": "com.cebupoundanimal.android"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.cebupoundanimal.android"
         }
     },
     "dependent_plugins": {
