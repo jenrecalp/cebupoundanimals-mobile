@@ -1,0 +1,68 @@
+{
+    "cordova-plugin-firebase": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-firebase@0.1.24"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-photo-library": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-photo-library"
+        },
+        "is_top_level": true,
+        "variables": {
+            "PHOTO_LIBRARY_USAGE_DESCRIPTION": "To choose photos"
+        }
+    },
+    "cordova-plugin-file": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-file@4.3.2"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-compat": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-compat@^1.0.0"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-progress": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-progress"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-x-toast": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-x-toast"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-spinner-dialog": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-spinner-dialog"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

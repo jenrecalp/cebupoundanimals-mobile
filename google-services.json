@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "980621899068",
+    "firebase_url": "https://cebu-pound.firebaseio.com",
+    "project_id": "cebu-pound",
+    "storage_bucket": "cebu-pound.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980621899068:android:0ba35103fada9ab9",
+        "android_client_info": {
+          "package_name": "com.cebupoundanimal.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980621899068-cv2qfm49j4u2enf32rdfqikv07437c0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBagawtlgdL3c8OYRHels3130l8iW0B6To"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
